@@ -1,4 +1,4 @@
-- 👋 Hi, I’m currently student at FGIET, in CSE department 
+- 👋 Hi, and Welcome to my profile. I'm Yogesh Yadav. I’m currently student at FGIET, in CSE department.
 - My outstanding ability is developing solutions to computationally challenging problems communicating them in written and oral form and working
   with teams to implement them.
 - 👀 I’m interested in coding on various platforms, 
