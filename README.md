@@ -1,8 +1,8 @@
-- 👋 Hi, and Welcome to my profile. I'm Yogesh Yadav. I’m currently student at FGIET, in CSE department.
+- 👋 Hi, and Welcome to my profile. I'm Yogesh Yadav. I’m MERN Stack developer and currently open to work.
 - My outstanding ability is developing solutions to computationally challenging problems communicating them in written and oral form and working
   with teams to implement them.
 - 👀 I’m interested in coding on various platforms, 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java SpringBoot
 - 💞️ I’m looking for help with my community
 - 📫 How to reach me ... LinkedIn (https://www.linkedin.com/in/yogeshyadavas/)
 
