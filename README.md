@@ -1,4 +1,5 @@
-- 👋 Hi, and Welcome to my profile. I'm Yogesh Yadav. I’m MERN Stack developer and currently open to work.
+- ### Hi there 👋, and Welcome to my profile. 
+- #### My name is Yogesh and I am currently learning to be a full-stack web developer.
 - My outstanding ability is developing solutions to computationally challenging problems communicating them in written and oral form and working
   with teams to implement them.
 - 👀 I’m interested in coding on various platforms, 
