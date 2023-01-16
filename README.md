@@ -4,7 +4,7 @@
   with teams to implement them.
 - Know more [about me](https://yogeshyadavas.github.io/yogeshyadavas/)
 - 👀 I’m interested in coding on various platforms, 
-- 🌱 I’m currently learning Java SpringBoot
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking for help with my community
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/yogeshyadavas/)
 
