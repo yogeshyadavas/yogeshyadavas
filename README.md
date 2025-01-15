@@ -1,5 +1,5 @@
--### Hi there 👋, Welcome to my GitHub!
--## I'm Yogesh, a Full Stack Developer and Lifelong Learner
+- ### Hi there 👋, Welcome to my GitHub!
+- ## I'm Yogesh, a Full Stack Developer and Lifelong Learner
 
    - 🚀 I specialize in creating innovative solutions to computational challenges, communicating them effectively, and collaborating with teams to bring ideas to life.
    - 🌱 Currently diving deeper into the MERN stack to build scalable web applications.
